@@ -7,3 +7,6 @@ Company Logo.png,/media/branding/,https://raw.githubusercontent.com/apple/swift/
 Safety Checklist.pdf,/reports/safety/,https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf,09-01-2023,,,Reports,Safety,checklist
 Site Inspection Photo.jpg,/media/inspections/site-a/,https://raw.githubusercontent.com/ianare/exif-samples/master/jpg/Canon_40D.jpg,11-15-2023,yes,,Media,Inspections,photos;site-a
 Korsa Mens Run Shirt.mov,/apparel/shirts/,https://raw.githubusercontent.com/pwalkrrs/rrsretailfile/main/retail/files/demo/Korsa_Shorts_Demo.mov,11-20-2023,yes,,Apparel,Shirts,mens;video;running
+Google,/Links/Search Engines/,https://www.google.com,11-22-2023,Websites,Search,search engine,link,no,no
+Wikipedia,/Links/Reference/,https://www.wikipedia.org,11-22-2023,Websites,Reference,encyclopedia,link,no,no
+Apple Developer,/Links/Development/,https://developer.apple.com,11-22-2023,Websites,Development,swift;ios,link,no,yes
